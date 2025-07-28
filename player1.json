@@ -1,9 +1,8 @@
 {
-  "username": "Player1_Bot",
-  "host": "play2.hbmc.net",
+  "ip": "play2.hbmc.net",
   "port": 31672,
+  "username": "Ishant_Bot",
   "auth": "offline",
-  "antiAfk": true,
-  "reconnectDelay": 5000
+  "password": "donotishant", 
+  "antiAfk": true
 }
-
