@@ -1,0 +1,9 @@
+{
+  "username": "Player1_Bot",
+  "host": "play2.hbmc.net",
+  "port": 31672,
+  "auth": "offline",
+  "antiAfk": true,
+  "reconnectDelay": 5000
+}
+
