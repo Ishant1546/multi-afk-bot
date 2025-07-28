@@ -1,0 +1,8 @@
+{
+  "name": "multi-mineflayer-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.8.0"
+  }
+}
